@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @Zahra Negahdari
 - 👀 I’m interested in Mathematical Modeling, Machine Learning, Multiphase Fluid Flow, Programming, and Reservoir Simulation.
+-     Numerical Modeling, Project
